@@ -1,0 +1,4 @@
+smooth movement
+obstacles
+a* star
+delay in blitting score,level every 10frame
